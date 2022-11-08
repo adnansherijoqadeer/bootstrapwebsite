@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wraper{
+    background-image: url(../img/BG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.nav-tabs .nav-link:hover{
+    border: none;
+}
+.nav-tabs .nav-item .badge{
+    position: relative;
+    bottom: 0.4rem;
+}
+.nav-tabs .nav-item .badge:hover{
+    background-color: yellowgreen;
+}
+a:hover{
+    text-decoration: none;
+}
